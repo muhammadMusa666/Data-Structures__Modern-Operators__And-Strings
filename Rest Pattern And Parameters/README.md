@@ -1,0 +1,3 @@
+# In This Subrepo, We Will Be Learning About The Rest Pattern, Rest Parameters, Rest Arguments, And Rest Syntax, Dont Worry, Even Though Thats A Lot To Take In😅, All Of These Are Short Enough, And This Whole Subrepo Is Somewhat Shorter Than The Few Previous Ones😄, And This Topic Isnt That Confusing, Might Be To Some, But You'll Surely Understand It If You Summarize Or Recap It, Or Better, Search Online Or Ask AI's For An Explaination😉, I Really Like To Think You Learn Something From This, So For Me, Dont Leave This Path, And Keep Moving Forward🫡, Let Me Know If Any Errors Occur. I Hope U Like It!
+
+# Made With Love By Musa!
